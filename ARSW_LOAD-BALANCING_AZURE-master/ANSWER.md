@@ -15,33 +15,33 @@ Escalabilidad Cuando un conjunto de usuarios consulta un enésimo número (super
 
 Se crea la maquina virtual.
 
-![Maquina](./images/Solution/1.PNG)
+![Maquina](./images/Solution/1.png)
 
-![Maquina](./images/Solution/2.PNG)
+![Maquina](./images/Solution/2.png)
 
 
 
 Se realiza la conexión ssh y se instala dependencias.
 
-![Maquina](./images/Solution/3.PNG)
+![Maquina](./images/Solution/3.png)
 
-![Maquina](./images/Solution/4.PNG)
+![Maquina](./images/Solution/4.png)
 
-![Maquina](./images/Solution/5.PNG)
+![Maquina](./images/Solution/5.png)
 
-![Maquina](./images/Solution/6.PNG)
+![Maquina](./images/Solution/6.png)
 
-![Maquina](./images/Solution/7.PNG)
+![Maquina](./images/Solution/7.png)
 
 Se clona el repositorio y se instala Postman.
 
-![Maquina](./images/Solution/8.PNG)
+![Maquina](./images/Solution/8.png)
 
-![Maquina](./images/Solution/9.PNG)
+![Maquina](./images/Solution/9.png)
 
 Se agrega reglas de seguridad de entrada.
 
-![Maquina](./images/Solution/10.PNG)
+![Maquina](./images/Solution/10.png)
 
 Se realiza prueba en navegador.
 
